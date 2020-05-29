@@ -2,12 +2,6 @@
     <img src="https://laravel.com/assets/img/components/logo-laravel.svg">
 </p>
 
-<p align="center">
-    <a href="https://github.com/DigiPearl/laravelxss-filter/master/LICENSE">
-        <img src="https://poser.pugx.org/DigiPearl/laravelxss-filter/license" alt="License">
-    </a>
-</p>
-
 # LaravelXSS-Filter 
 
 Laravel 5.4+ Middleware to filter user inputs from XSS and iframes and other embed elements.
