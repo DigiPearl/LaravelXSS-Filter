@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/DigiPearl/laravel-xss-filter/blob/master/LICENSE">
-        <img src="https://poser.pugx.org/DigiPearl/laravel-xss-filter/license" alt="License">
+    <a href="https://github.com/DigiPearl/laravelxss-filter/blob/master/LICENSE">
+        <img src="https://poser.pugx.org/DigiPearl/laravelxss-filter/license" alt="License">
     </a>
 </p>
 
