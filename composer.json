@@ -1,5 +1,5 @@
 {
-	"name": "dpishield/laravel-xss-filter",
+	"name": "dpishield/laravelXSS-filter",
 	"description": "Filter user input for XSS but don't touch other html",
 	"license": "MIT",
 	"keywords": [
@@ -9,8 +9,8 @@
 	],
 	"authors": [
 		{
-			"name": "Roman Ihoshyn",
-			"email": "igoshin18@gmail.com"
+			"name": "Digi Pearl",
+			"email": "digipearlinc@gmail.com"
 		}
 	],
 	"require": {
