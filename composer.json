@@ -1,5 +1,5 @@
 {
-	"name": "dpishield/laravelXSS-filter",
+	"name": "dpishield/laravelxss-filter",
 	"description": "Filter user input for XSS but don't touch other html",
 	"license": "MIT",
 	"keywords": [
